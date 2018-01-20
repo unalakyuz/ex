@@ -10,6 +10,7 @@ using Trendyol.Case.Service;
 
 namespace Trendyol.Case.Controllers
 {
+
     public class BaseController : Controller
     {
         private IMemoryCache _cache;
